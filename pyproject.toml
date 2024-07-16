@@ -20,4 +20,4 @@ distribution = true
 
 [project.urls]
 Homepage = "https://github.com/j25ng/banner_j25ng"
-Issuses = "https://github.com/j25ng/banner_j25ng/issues"
+Issues = "https://github.com/j25ng/banner_j25ng/issues"
