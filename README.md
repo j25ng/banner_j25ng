@@ -11,7 +11,7 @@
 
 # Usage
 ## source code : banner.py
-```
+```python
 from pyfiglet import Figlet
 
 def show():
@@ -26,11 +26,11 @@ show-banner = 'banner_j25ng.banner:show'
 ```
 
 ## install
-```
-pip install
+```bash
+$ pip install
 ```
 
 ## on shell
-```
-show-banner
+```bash
+$ show-banner
 ```
