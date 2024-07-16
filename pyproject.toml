@@ -12,7 +12,7 @@ requires-python = ">=3.9"
 readme = "README.md"
 license = {text = "MIT"}
 
-[priject.scripts]
+[project.scripts]
 show-banner = 'banner_j25ng.banner:show' 
 
 [tool.pdm]
