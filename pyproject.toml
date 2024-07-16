@@ -15,6 +15,7 @@ license = {text = "MIT"}
 [project.scripts]
 j25ng-banner = 'banner_j25ng.banner:show' 
 j25ng-pic = 'banner_j25ng.banner:pic' 
+j25ng-lotto = 'banner_j25ng.banner:lotto'
 
 [tool.pdm]
 distribution = true 
